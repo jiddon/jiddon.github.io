@@ -21,6 +21,6 @@ safety of the detector, are challenging tasks when considering that the Pixel de
 three more intense than for which it was designed. In addition, the effects of radiation damage become more apparent.
 More details can be found [here]({{base_path}}/publication/operational-experience-and-performance-with-the-ATLAS-Pixel-detector).
 
-Before working on ATLAS, I worked on ALICE, another experiment at CERN, on the LHC beam line.  
+Before working on ATLAS, I worked on the inner tracking system upgrade for ALICE, ITS2. My thesis can be found [here]({{base_path}}/thesis/).
 
 
