@@ -1,0 +1,12 @@
+{% include base_path %}
+
+<section class="embed__pdf">
+    <a href="{{ page.paperurl }}">Click for link to publisher.</a>  
+    <p> </p>
+  <object data="{{ page.pathtofile }}" type="application/pdf" width="100%" height="100%"> 
+    <p>It appears you don't have a PDF plugin for this browser.
+    You can <a href="{{ page.pathtofile }}">click here to
+    download the PDF file.</a></p>  
+  </object>
+ 
+</section>

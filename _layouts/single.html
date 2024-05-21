@@ -70,6 +70,7 @@ layout: default
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
+      {% if page.pathtofile %}{% include embed-pdf.html %}{% endif %}
 
       {% include post_pagination.html %}
     </div>

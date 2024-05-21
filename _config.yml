@@ -250,8 +250,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
       comments: true
+      embed: true
   # _portfolio
   - scope:
       path: ""
