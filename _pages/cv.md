@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-{% include embed-pdf.html %}{
+{% include embed-pdf.html %}
