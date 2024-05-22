@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 I am an applied physicist working on the ATLAS experiment at CERN. I have over 7 years experience in the 
-construction, system testing, commissioning and operations of silicon pixel tracking detectors within high energy physics.
+research, development, construction, system testing, commissioning and operations of silicon pixel tracking detectors within high energy physics.
 My job is the operations and data acquisition software development of the ATLAS Pixel detector, the innermost tracking detector
 of ATLAS. I am currently the Pixel run coordinator, which means I am the primary person responsible for ensuring that the Pixel
 detector is taking high quality data during the 24/7 running schedule of the LHC. The role involves being on-call 24/7 to solve 
