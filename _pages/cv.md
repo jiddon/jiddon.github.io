@@ -10,3 +10,5 @@ redirect_from:
 {% include base_path %}
 
 {% include embed-pdf.html %}
+
+or view in [txt](./cv_txt)
