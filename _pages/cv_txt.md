@@ -4,16 +4,14 @@ permalink: /cv/cv_txt/
 author_profile: true
 ---
 ```
-james.philip.iddon@cern.ch • +41 77 211 94 53 • linkedin • github.io
+james.philip.iddon@cern.ch • +41 77 211 94 53
 
   Applied Physicist with over 7 years of experience in high-energy
   physics experiments and advanced detector technology. Proven track
   record in the research, development, construction, and commissioning
   of cutting-edge silicon pixel tracking detectors. Expertise in system
   testing, data acquisition software development, and detector
-  operations. Seeking a challenging R&D Engineering role to leverage my
-  technical skills and research background in an innovative industry
-  setting.
+  operations.
 
 Professional Experience
 
