@@ -4,12 +4,6 @@ permalink: /cv/cv_txt/
 author_profile: true
 ---
 ```
----
-layout: archive
-permalink: /cv/cv_txt/
-author_profile: true
----
-```
 James Philip Iddon
 
 james.philip.iddon@cern.ch • linkedin • github.io
@@ -73,7 +67,7 @@ Oct 2017 - Jul 2022
     -   Conducted the first measurement of detection efficiency using 5
         million cosmic muon tracks, confirming system capabilities.
 
-Education
+Qualifications
 
 ------------------------------------------------------------------------
 
@@ -95,5 +89,7 @@ Sep 2013 - Jul 2017
     -   Masters project: ‘Inner Tracking System Upgrade of the ALICE
         Experiment at the LHC’, characterisation of silicon CMOS MAPS
         chips.
-```
+
+A Levels: Maths (A), Physics (A), Chemistry (B) • 11 GCSEs B or higher •
+Full driving licence
 ```
