@@ -4,6 +4,18 @@ permalink: /cv/cv_txt/
 author_profile: true
 ---
 ```
+---
+layout: archive
+permalink: /cv/cv_txt/
+author_profile: true
+---
+```
+---
+layout: archive
+permalink: /cv/cv_txt/
+author_profile: true
+---
+```
 James Philip Iddon
 
 james.philip.iddon@cern.ch • linkedin • github.io
@@ -24,7 +36,8 @@ acquisition system development • software development • system testing
 and integration • data analysis and visualisation • professional
 communication in international environments
 
-Python • C++ • Bash • Linux (Arch, Debian, Ubuntu) • Git • LaTeX • Markdown • html • css • Matplotlib • Plotly • Seaborn • Pandas • ROOT
+Python • C++ • Bash • Linux (Arch, Debian, Ubuntu) • Git • LaTeX • 
+Markdown • html • css • Matplotlib • Plotly • Seaborn • Pandas • ROOT
 
 Professional Experience
 
@@ -92,4 +105,6 @@ Sep 2013 - Jul 2017
 
 A Levels: Maths (A), Physics (A), Chemistry (B) • 11 GCSEs B or higher •
 Full driving license
+```
+```
 ```
