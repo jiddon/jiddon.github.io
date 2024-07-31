@@ -13,7 +13,7 @@ james.philip.iddon@cern.ch • linkedin • github.io
   record in the research, development, construction, and commissioning
   of cutting-edge silicon pixel tracking detectors. Expertise in system
   testing, data acquisition software development, and coordination of
-  detector operations.
+  operations.
 
 Skills
 
@@ -24,7 +24,7 @@ acquisition system development • software development • system testing
 and integration • data analysis and visualisation • professional
 communication in international environments
 
-Python • C++ • Bash • Linux (Arch, Debian, Ubuntu) • Git • LaTeX • Markdown • html • WinCC • Matplotlib • Plotly • Seaborn • Pandas • ROOT
+Python • C++ • Bash • Linux (Arch, Debian, Ubuntu) • Git • LaTeX • Markdown • html • css • Matplotlib • Plotly • Seaborn • Pandas • ROOT
 
 Professional Experience
 
@@ -36,7 +36,7 @@ Jul 2022 - present
     CERN - Geneva, CH
 
     -   Coordinated operations for the ATLAS Pixel detector, ensuring
-        maximum uptime and detector safety to support 24/7 LHC data
+        maximum up-time and detector safety to support 24/7 LHC data
         acquisition.
     -   Developed and maintained data acquisition software (C++ /
         Python) with continuous integration testing, enhancing system
@@ -55,7 +55,7 @@ Oct 2017 - Jul 2022
     Doctoral Researcher
     University of Liverpool / CERN
 
-    -   Construction, commissioning, and performance measurement of the
+    -   Construction, commissioning, and performance measurements of the
         ALICE Inner Tracking System Upgrade, the largest Monolithic
         Active Pixel Sensor (MAPS) tracking detector ever built.
     -   Achieved a 98% yield in constructing and testing novel CMOS MAPS
@@ -91,5 +91,5 @@ Sep 2013 - Jul 2017
         chips.
 
 A Levels: Maths (A), Physics (A), Chemistry (B) • 11 GCSEs B or higher •
-Full driving licence
+Full driving license
 ```
