@@ -4,9 +4,15 @@ permalink: /cv/cv_txt/
 author_profile: true
 ---
 ```
+---
+layout: archive
+permalink: /cv/cv_txt/
+author_profile: true
+---
+```
 James Philip Iddon
 
-james.philip.iddon@cern.ch> • linkedin • github.io
+james.philip.iddon@cern.ch • linkedin • github.io
 
   Applied Physicist with over 7 years of experience in high-energy
   physics experiments and advanced silicon technology. Proven track
@@ -92,4 +98,53 @@ Sep 2013 - Jul 2017
 
 A Levels: Maths (A), Physics (A), Chemistry (B) • 11 GCSEs B or higher •
 Full driving license
+
+Publications
+
+------------------------------------------------------------------------
+
+All publications as an ALICE and ATLAS author can be found via my
+Inspire ID: 1618293, or via ORCID
+
+Relevant Publications:
+
+-   The ALICE collaboration, ALICE upgrades during the LHC Long Shutdown
+    2, JINST, 2024
+-   J. P. Iddon on behalf of the ATLAS collaboration, Operational
+    experience and performance with the ATLAS Pixel detector at the
+    Large Hadron Collider at CERN, Nuclear Instruments and Methods in
+    Physics Research Section A, 2024
+-   ALICE ITS project, First demonstration of in-beam performance of
+    bent Monolithic Active Pixel Sensors, Nuclear Instruments and
+    Methods in Physics Research Section A, 2022
+-   D. Colella on behalf of the ALICE collaboration, ALICE ITS upgrade
+    for LHC Run 3: commissioning in the laboratory, P roceedings of
+    International Conference on Technology and Instrumentation in
+    Particle Physics (TIPP), 2021
+-   J. P. Iddon on behalf of the ALICE collaboration, Commissioning of
+    the new ALICE Inner Tracking System, Journal of Instrumentation,
+    2020
+-   A. Velure on behalf of the ALICE collaboration, Integration,
+    Commissioning and First Experience of ALICE ITS Control and Readout
+    Electronics, Proceedings of Science, 2019
+-   M. Buckland on behalf of the ALICE collaboration, Series Production
+    and Test of Hybrid Modules for the ALICE ITS Upgrade, Proceedings of
+    Science, 2019
+
+External Talks
+
+------------------------------------------------------------------------
+
+-   Operational Experience and Performance with the ATLAS Pixel detector
+    at the Large Hadron Collider at CERN, HSTD13, Vancouver, Dec 2023
+-   Realising the ALICE ITS Upgrade, IOP Nuclear Colloquium, Remote, Nov
+    2021
+-   Performance Measurements from Cosmic Muon Data using the Outer
+    Barrel of the New ALICE Inner Tracking System, PSD12, Birmingham
+    Sept 2021
+-   Upgrade and Commissioning of the ITS Upgrade of ALICE, INSTR’20,
+    Novosibirsk, Feb 2020
+-   Entering the precision era of hot QCD measurements, IOP18, Glasgow,
+    Apr 2018
+```
 ```
