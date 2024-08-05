@@ -4,12 +4,6 @@ permalink: /cv/cv_txt/
 author_profile: true
 ---
 ```
----
-layout: archive
-permalink: /cv/cv_txt/
-author_profile: true
----
-```
 James Philip Iddon
 
 james.philip.iddon@cern.ch • linkedin • github.io
@@ -146,5 +140,4 @@ External Talks
     Novosibirsk, Feb 2020
 -   Entering the precision era of hot QCD measurements, IOP18, Glasgow,
     Apr 2018
-```
 ```
