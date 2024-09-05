@@ -24,6 +24,6 @@ More details can be found [here]({{base_path}}/publication/operational-experienc
 Before working on ATLAS, I worked on the inner tracking system upgrade for ALICE, ITS2, a silicon monolithic active pixel sensor 
 tracking detector with nearly thirteen billion readout channels, the largest and most granular silicon tracker ever buillt.
 I was involved in the project throughout the construction and commissioning, writing the system tests and collecting the first real data, 
-which I used to make the first measure of the detection efficiency. My thesis can be found [here]({{base_path}}/thesis/). 
+which I used to make the first measure of the detection efficiency. My thesis can be found [here](https://cds.cern.ch/record/2826537?ln=en). 
 
 
