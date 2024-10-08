@@ -84,7 +84,7 @@ Oct 2017 - Jul 2022
 
     -   Title: Construction, Commissioning and Performance Measurements
         of the Inner Tracking System Upgrade of ALICE at the LHC.
-    -   Defended in June 2022. Shortlisted for ALICE thesis award.
+    -   Defended in June 2022. Shortlisted for the ALICE thesis award.
 
 Sep 2013 - Jul 2017
 
