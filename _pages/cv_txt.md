@@ -3,13 +3,6 @@ layout: archive
 permalink: /cv/cv_txt/
 author_profile: true
 ---
-```
----
-layout: archive
-permalink: /cv/cv_txt/
-author_profile: true
----
-```
 James Philip Iddon
 
 james.philip.iddon@cern.ch • linkedin • github.io
