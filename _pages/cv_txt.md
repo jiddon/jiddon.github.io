@@ -24,7 +24,8 @@ acquisition system development • software development • system testing
 and integration • data analysis and visualisation • professional
 communication with international stakeholders
 
-Python • C++ • Bash • Linux (Arch, Debian, Ubuntu) • Git • LaTeX • Markdown • html • css • Matplotlib • Plotly • Seaborn • Pandas • ROOT
+Python • C++ • Bash • Linux (Arch, Debian, Ubuntu) • Git • LaTeX •
+Markdown • html • css • Matplotlib • Plotly • Seaborn • Pandas • ROOT
 
 Professional Experience
 
