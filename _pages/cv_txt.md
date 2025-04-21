@@ -32,7 +32,7 @@ Professional Experience
 
 Mar 2025 - present
 
-    Applied Physicist
+    Applied Physicist (Staff)
     CERN - Geneva, CH
 
     -   Applied Physicist for ATLAS ITk Pixel, the largest silicon
@@ -43,7 +43,7 @@ Mar 2025 - present
 
 Jul 2022 - Feb 2025
 
-    Senior Applied Fellow (Detector Operations)
+    Applied Physicist (Senior Applied Fellow)
     CERN - Geneva, CH
 
     -   Coordinated operations for the ATLAS Pixel detector, ensuring
