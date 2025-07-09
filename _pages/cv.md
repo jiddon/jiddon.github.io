@@ -11,9 +11,9 @@ author_profile: true
 
 ---
 
-operations • coordination • silicon chip characterisation • data acquisition system development • software development • system testing and integration • data analysis and visualisation • professional communication with international stakeholders
-\
-Python • C++ • Bash • Linux • Git • Docker • LaTeX • Markdown • html • css • Pandas • ROOT • html • css 
+**DevOps & Automation:** CI/CD pipelines • Python • C++ • Docker • Shell scripting • Git • Linux\
+**System Engineering:** Data acquisition system development • System testing • Hardware-software\
+**Communication & Coordination**: International team operations • DevOps team coordination\
 
 ## Professional Experience
 
@@ -31,7 +31,7 @@ Jul 2022 - Feb 2025
 :   **Applied Physicist (Senior Applied Fellow)**\
     *CERN - Geneva, CH*
 
-    - Coordinated operations for the ATLAS Pixel detector, ensuring maximum up-time and detector safety to support 24/7 LHC data acquisition. 
+    - Coordinated operations for the ATLAS silicon Pixel detector, ensuring maximum up-time and detector safety to support 24/7 LHC data acquisition. 
     - Developed and maintained data acquisition software (C++ / Python) with continuous integration testing, enhancing system responsiveness.
     - Designed and implemented a software package to improve DAQ software flexibility, facilitating faster problem resolution by detector experts.
     - Management and training of 24/7 shift crew • On-call detector expert • Organisation of weekly meetings • Representation of the group in daily ATLAS meetings.
@@ -64,6 +64,10 @@ Sep 2013 - Jul 2017
     - Grade: First Class
     - Masters project: ‘Inner Tracking System Upgrade of the ALICE Experiment at the LHC’, characterisation of silicon CMOS MAPS chips.
 
+---
+
+Full driving license • Spanish residence permit
+ 
  
 ---
  

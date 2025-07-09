@@ -4,6 +4,12 @@ permalink: /cv/cv_txt/
 author_profile: true
 ---
 ```
+---
+layout: archive
+permalink: /cv/cv_txt/
+author_profile: true
+---
+```
 James Philip Iddon
 
 james.philip.iddon@cern.ch • linkedin • github.io
@@ -19,12 +25,12 @@ Skills
 
 ------------------------------------------------------------------------
 
-operations • coordination • silicon chip characterisation • data
-acquisition system development • software development • system testing
-and integration • data analysis and visualisation • professional
-communication with international stakeholders
-Python • C++ • Bash • Linux • Git • Docker • LaTeX • Markdown • html •
-css • Pandas • ROOT • html • css
+DevOps & Automation: CI/CD pipelines • Python • C++ • Docker • Shell
+scripting • Git • Linux
+System Engineering: Data acquisition system development • System testing
+• Hardware-software
+Communication & Coordination: International team operations • DevOps
+team coordination
 
 Professional Experience
 
@@ -101,4 +107,9 @@ Sep 2013 - Jul 2017
     -   Masters project: ‘Inner Tracking System Upgrade of the ALICE
         Experiment at the LHC’, characterisation of silicon CMOS MAPS
         chips.
+
+------------------------------------------------------------------------
+
+Full driving license • Spanish residence permit
+```
 ```
