@@ -10,6 +10,18 @@ permalink: /cv/cv_txt/
 author_profile: true
 ---
 ```
+---
+layout: archive
+permalink: /cv/cv_txt/
+author_profile: true
+---
+```
+---
+layout: archive
+permalink: /cv/cv_txt/
+author_profile: true
+---
+```
 James Philip Iddon
 
 james.philip.iddon@cern.ch • linkedin • github.io
@@ -111,5 +123,7 @@ Sep 2013 - Jul 2017
 ------------------------------------------------------------------------
 
 Full driving license • Spanish residence permit
+```
+```
 ```
 ```

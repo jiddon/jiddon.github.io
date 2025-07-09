@@ -5,15 +5,16 @@ permalink: /cv/
 author_profile: true
 ---
 
-> Applied Physicist with over 8 years of experience in high-energy physics experiments and advanced silicon technology. Proven track record in the research, development, construction, and commissioning of cutting-edge silicon pixel tracking detectors. Expertise in system testing, data acquisition software development, and coordination of operations.
+> Applied Physicist with over 8 years of experience in high-energy physics experiments and advanced silicon technology. Proven track record in the development, construction, commissioning and operation of cutting-edge silicon pixel tracking detectors. Expertise in system testing, data acquisition software development, and coordination of operations.
 
 ## Skills
 
 ---
 
-**DevOps & Automation:** CI/CD pipelines • Python • C++ • Docker • Shell scripting • Git • Linux\
+**DevOps & Automation:** CI/CD pipelines • Python (8 years) • C++ (5 years) • Docker • Shell scripting • Git • Linux\
 **System Engineering:** Data acquisition system development • System testing • Hardware-software\
 **Communication & Coordination**: International team operations • DevOps team coordination\
+**Code Quality**: Code review workflows • Static analysis tools
 
 ## Professional Experience
 
@@ -66,7 +67,7 @@ Sep 2013 - Jul 2017
 
 ---
 
-Full driving license • Spanish residence permit
+Full driving license • Spanish residence permit • English native • French A1+  
  
  
 ---
