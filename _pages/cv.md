@@ -12,7 +12,7 @@ author_profile: true
 ---
 
 **Technical:** Python (8yr) • C++ (5yr) • Hardware-software • V&V • CI/CD • Docker • Bash • Git • Linux\
-**System Engineering:** Data acquisition system development • System testing • System integration\ 
+**System Engineering:** Data acquisition system development • System testing • System integration\
 **Communication & Coordination**: International team operations • DevOps team coordination\
 **Code Quality**: Code review workflows • Static analysis tools
 
