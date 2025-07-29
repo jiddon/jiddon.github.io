@@ -4,6 +4,18 @@ permalink: /cv/cv_txt/
 author_profile: true
 ---
 ```
+---
+layout: archive
+permalink: /cv/cv_txt/
+author_profile: true
+---
+```
+---
+layout: archive
+permalink: /cv/cv_txt/
+author_profile: true
+---
+```
 James Philip Iddon
 
 james.philip.iddon@cern.ch • linkedin • github.io
@@ -22,8 +34,9 @@ Skills
 Technical: Python (8yr) • C++ (5yr) • Hardware-software • V&V • CI/CD •
 Docker • Bash • Git • Linux
 System Engineering: Data acquisition system development • System testing
-• System integration  Communication & Coordination: International team
-operations • DevOps team coordination
+• System integration
+Communication & Coordination: International team operations • DevOps
+team coordination
 Code Quality: Code review workflows • Static analysis tools
 
 Professional Experience
@@ -106,4 +119,6 @@ Sep 2013 - Jul 2017
 
 Full driving license • Spanish residence permit • English native speaker
 • French A1+
+```
+```
 ```
