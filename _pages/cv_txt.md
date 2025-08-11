@@ -105,6 +105,5 @@ Sep 2013 - Jul 2017
 
 ------------------------------------------------------------------------
 
-Full driving license • Spanish residence permit • English native speaker
-• French A1+
+Full driving license • English native speaker • French A1+
 ```
