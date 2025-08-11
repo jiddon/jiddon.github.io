@@ -68,7 +68,7 @@ Sep 2013 - Jul 2017
 
 ---
 
-Full driving license • English native speaker • French A1+  
+Full driving license • Right to live and work in Spain • English native speaker • French A1+  
  
  
 ---
