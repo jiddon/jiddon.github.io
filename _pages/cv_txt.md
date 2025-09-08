@@ -63,7 +63,7 @@ Jul 2022 - Feb 2025
 
 Oct 2017 - Jul 2022
 
-    Doctoral Researcher
+    Applied Physicist (Doctorant)
     University of Liverpool / CERN
 
     -   Constructed, commissioned, and took performance measurements of
@@ -106,5 +106,5 @@ Sep 2013 - Jul 2017
 ------------------------------------------------------------------------
 
 Full driving license • Right to live and work in Spain • English native
-speaker • French A1+
+speaker
 ```

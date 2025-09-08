@@ -39,7 +39,7 @@ Jul 2022 - Feb 2025
     - Pixel Run Coordinator (Oct 2023 - Oct 2024) during the hadronic collider record breaking year of 2024, and deputy for the six months prior.
 
 Oct 2017 - Jul 2022
-:   **Doctoral Researcher**\
+:   **Applied Physicist (Doctorant)**\
     *University of Liverpool / CERN*
     
     - Constructed, commissioned, and took performance measurements of the ALICE Inner Tracking System Upgrade, the largest Monolithic Active Pixel Sensor (MAPS) tracking detector ever built.
@@ -68,7 +68,7 @@ Sep 2013 - Jul 2017
 
 ---
 
-Full driving license • Right to live and work in Spain • English native speaker • French A1+  
+Full driving license • Right to live and work in Spain • English native speaker
  
  
 ---
