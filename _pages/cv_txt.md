@@ -22,8 +22,9 @@ Skills
 Technical: Python (8yr) • C++ (5yr) • Hardware-software • V&V • CI/CD •
 Docker • Bash • Git • Linux
 Systems Engineering: Systems development, validation, integration,
-deployment, and operation  Communication & Coordination: International
-stakeholder coordination • DevOps coordination
+deployment, and operation
+Communication & Coordination: International stakeholder coordination •
+DevOps coordination
 Code Quality: Code review workflows • Static analysis tools • Testing
 automation
 

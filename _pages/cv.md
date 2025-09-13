@@ -13,7 +13,7 @@ author_profile: true
 ---
 
 **Technical:** Python (8yr) • C++ (5yr) • Hardware-software • V&V • CI/CD • Docker • Bash • Git • Linux\
-**Systems Engineering:** Systems development, validation, integration, deployment, and operation\ 
+**Systems Engineering:** Systems development, validation, integration, deployment, and operation\
 **Communication & Coordination**: International stakeholder coordination • DevOps coordination\
 **Code Quality**: Code review workflows • Static analysis tools • Testing automation
 
@@ -55,7 +55,7 @@ Oct 2017 – Jul 2022
 :   **PhD in Applied Physics**\
     *University of Liverpool / CERN*
 
-    - Title: Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade of ALICE at the LHC, focused on systems engineering, system integration, and verification & validation of complex detector systems.\
+    - Title: Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade of ALICE at the LHC, focused on systems engineering, system integration, and verification & validation of complex detector systems.
     - Defended in June 2022. Shortlisted for the ALICE thesis award.
 
 Sep 2013 – Jul 2017
