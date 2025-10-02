@@ -26,8 +26,9 @@ Automated testing and deployment
 Systems Engineering: Systems lifecycle development, requirements
 analysis, integration, validation, deployment, and operational support •
 Configuration management and quality assurance
-Communication & Coordination: International stakeholder engagement •
-Cross-functional team leadership • DevOps operations coordination
+Communication & Coordination: Jira • International stakeholder
+engagement • Cross-functional team leadership • DevOps operations
+coordination
 Code Quality: Code review workflows • Static analysis tools • Testing
 automation and continuous integration
 

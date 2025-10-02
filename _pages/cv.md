@@ -14,8 +14,8 @@ author_profile: true
 ---
 
 **Technical:** Python • C++ • Hardware-software integration • Verification & Validation (V&V) • CI/CD pipelines • Docker • Bash • Git • Linux • Automated testing and deployment\
-**Systems Engineering:** Systems lifecycle development, requirements analysis, integration, validation, deployment, and operational support • Configuration management and quality assurance\
-**Communication & Coordination:** International stakeholder engagement • Cross-functional team leadership • DevOps operations coordination\
+**Systems Engineering:** Systems lifecycle development, requirements analysis, integration, validation, deployment, and operational support • Configuration management and quality assurance \
+**Communication & Coordination:** Jira • International stakeholder engagement • Cross-functional team leadership • DevOps operations coordination\
 **Code Quality:** Code review workflows • Static analysis tools • Testing automation and continuous integration
 
 ## Professional Experience
