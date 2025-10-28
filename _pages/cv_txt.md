@@ -41,19 +41,15 @@ Mar 2025 – Present
     Applied Physicist (Staff)
     CERN, Geneva, CH
 
-    -   Accountable for the end-to-end verification, validation, and
-        integration of the outer barrel of the ATLAS ITk Pixel detector,
-        a large-scale, safety-critical system co-developed by 50
-        international institutions, illustrating advanced systems
-        engineering and technical coordination capabilities.
-    -   Designing system architecture and rigorous V&V protocols to
-        assure the reliability and performance of a 5 billion channel
-        silicon tracker, emphasising expertise in requirements
-        engineering, risk assessment, and quality control.
-    -   Driving continuous problem-solving initiatives and root cause
-        analysis in critical mission environments, demonstrating
-        high-level troubleshooting, resilience and adaptability while
-        collaborating across multidisciplinary teams.
+    -   Accountable for the verification, validation, and integration of
+        the outer barrel of the ATLAS ITk Pixel detector, a large-scale,
+        safety-critical system co-developed by 50 international
+        institutions, illustrating advanced systems engineering and
+        technical coordination capabilities.
+    -   Designing system architecture and V&V protocols to assure the
+        reliability and performance of a 5 billion channel silicon
+        tracker, emphasising expertise in requirements engineering, risk
+        assessment, and quality control.
 
 Jul 2022 – Feb 2025
 
@@ -70,7 +66,7 @@ Jul 2022 – Feb 2025
         enhance system robustness and flexibility.
     -   Led and mentored a 24/7 operational shift team, implementing
         team coordination strategies and succession planning to maintain
-        operational excellence.
+        operational uptime.
     -   Chaired international collaboration meetings to align
         cross-functional teams, manage stakeholder expectations, and
         drive project progress in a highly distributed, multicultural
@@ -93,10 +89,9 @@ Oct 2017 – Jul 2022
         Tracking System Upgrade, the largest Monolithic Active Pixel
         Sensor (MAPS) tracking detector ever developed, demonstrating
         strong project management and systems engineering skills.
-    -   Developed bespoke system verification software and devised
-        comprehensive V&V strategies for the fully integrated detector,
-        validating performance metrics against stringent system
-        requirements.
+    -   Developed system verification software and devised comprehensive
+        V&V strategies for the fully integrated detector, validating
+        performance metrics against stringent system requirements.
     -   Achieved exceptional manufacturing yields (98%) for CMOS MAPS
         detector modules and staves, showcasing expertise in process
         control, quality assurance, and precision engineering.
@@ -125,7 +120,8 @@ Sep 2013 – Jul 2017
     MPHYS Physics
     University of Liverpool
 
-    -   Specialised in detector physics • Grade: First Class
+    -   Integrated mastors, specialised in detector physics • Grade:
+        First Class
     -   Masters project: ‘Inner Tracking System Upgrade of the ALICE
         Experiment at the LHC’, characterisation of silicon CMOS MAPS
         chips.
