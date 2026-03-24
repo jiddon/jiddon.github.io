@@ -6,7 +6,7 @@ author_profile: true
 ```
 James Philip Iddon
 
-jamesiddon94@gmail.com • linkedin • github.io  Betera, Valencia • +41 77 211 94 53
+jamesiddon94@gmail.com • linkedin • github.io
 
   Experienced applied physicist / systems engineer with 8+ years in the
   integration, verification, and operation of large-scale,
@@ -20,10 +20,10 @@ Skills
 
 ------------------------------------------------------------------------
 
-Technical: Python • C++ • Hardware-software integration • Verification &
-Validation (V&V) • CI/CD pipelines • Docker • Bash • Git • Linux •
-Automated testing and deployment
-Systems Engineering: Systems lifecycle development, requirements
+Technical: Python • C++ • Hardware-software integration • Verification
+and Validation (V&V) • CI/CD pipelines • Docker • Bash • Git • Linux •
+Automated testing and deployment • REST API
+Systems Engineering: Systems life-cycle development, requirements
 analysis, integration, validation, deployment, and operational support •
 Configuration management and quality assurance
 Communication & Coordination: Jira • International stakeholder
@@ -36,72 +36,62 @@ Professional Experience
 
 ------------------------------------------------------------------------
 
-Mar 2025 – Present
+Jul 2022 – Dec 2025
 
-    Applied Physicist (Staff)
+    Applied Physicist (Staff, formerly Senior Fellow)
     CERN, Geneva, CH
 
-    -   Accountable for the verification, validation, and integration of
-        the outer barrel of the ATLAS ITk Pixel detector, a large-scale,
-        safety-critical system co-developed by 50 international
-        institutions, illustrating advanced systems engineering and
-        technical coordination capabilities.
-    -   Designing system architecture and V&V protocols to assure the
-        reliability and performance of a 5 billion channel silicon
-        tracker, emphasising expertise in requirements engineering, risk
-        assessment, and quality control.
-
-Jul 2022 – Feb 2025
-
-    Applied Physicist (Senior Applied Fellow)
-    CERN, Geneva, CH
-
-    -   Managed and coordinated complex detector operations for the
-        ATLAS silicon Pixel detector supporting a 24/7 data acquisition
-        environment at the Large Hadron Collider (LHC), highlighting
-        operational leadership, risk mitigation, and incident command
-        expertise.
-    -   Designed, developed, and maintained scalable data acquisition
-        (DAQ) software, integrating DevOps principles including CI/CD to
-        enhance system robustness and flexibility.
-    -   Led and mentored a 24/7 operational shift team, implementing
-        team coordination strategies and succession planning to maintain
-        operational uptime.
-    -   Chaired international collaboration meetings to align
-        cross-functional teams, manage stakeholder expectations, and
-        drive project progress in a highly distributed, multicultural
-        environment.
-    -   Acted as primary liaison representing the 30 member detector
-        operations team within a 6000+ member scientific community,
-        exemplifying negotiation and strategic communication skills.
-    -   Served as Pixel Run Coordinator during a record-setting collider
-        year, orchestrating detector operations plans, resource
-        allocation, and risk management efforts, reinforcing expertise
-        in project execution and leadership under pressure.
+    -   Led V&V for functional electrical characterisation of
+        safety-critical silicon sensor array (ATLAS ITk Pixel outer
+        barrel subsystem, 50-institution project).
+    -   Engineered V&V protocols and test-benches for 5 billion-channel
+        data acquisition system.
+    -   Deployed and maintained over 5 automated test setups for silicon
+        sensor module qualification.
+    -   Managed 24/7 operations and DevOps team for high-reliability
+        sensor system supporting particle accelerator data acquisition
+        at LHC.
+    -   Provided on-call operational and DAQ expertise for 24/7
+        mission-critical operations over 2 years.
+    -   Developed/maintained DAQ software (C++/Python, CI/CD pipelines)
+        for continuous operations in a mission-critical environment.
+    -   Mentored and led 24/7 shift teams drawn from 300-person
+        international pool.
+    -   Chaired international meetings aligning cross-functional teams
+        over 9 time zones.
+    -   Represented ~30 person operations team in 6000+ member
+        international collaboration.
+    -   Authored 3 novel software packages (Python) including well used
+        operational tools deployed across international collaborations.
+    -   Served as system operations coordinator for record-setting
+        accelerator year.
 
 Oct 2017 – Jul 2022
 
     Applied Physicist (Doctorant)
     University of Liverpool / CERN
 
-    -   Constructed, commissioned, and performed comprehensive
-        system-level performance measurements of the ALICE Inner
-        Tracking System Upgrade, the largest Monolithic Active Pixel
-        Sensor (MAPS) tracking detector ever developed, demonstrating
-        strong project management and systems engineering skills.
-    -   Developed system verification software and devised comprehensive
-        V&V strategies for the fully integrated detector, validating
-        performance metrics against stringent system requirements.
-    -   Achieved exceptional manufacturing yields (98%) for CMOS MAPS
-        detector modules and staves, showcasing expertise in process
-        control, quality assurance, and precision engineering.
-    -   Pioneered the first measurement of detection efficiency using
-        over 5 million cosmic muon tracks, exemplifying technical
-        coordination, experimental validation and data analysis skills.
+    -   Constructed, characterised, and verified 25% of the Outer Barrel
+        of the ALICE ITS2, the largest monolithic pixel sensor array
+        ever built, with 98% manufacturing yield.
+    -   Developed verification software integrated with production
+        readout and V&V strategies for full detector system (12.5
+        billion pixels, 10m² silicon).
+    -   Validated performance of complete sensor system against
+        requirements.
+    -   Made first measurement of detection efficiency using 5 million
+        cosmic muon tracks across full detector system.
+    -   Presented technical work in international collaboration meetings
+        (170+ institutions) from small working groups to large
+        plenaries, as well as national and international conferences.
 
 Education
 
 ------------------------------------------------------------------------
+
+Dec 2025 - Present
+    Intensive Spanish Course
+    Taronja Spanish School, Valencia
 
 Oct 2017 – Jul 2022
 
@@ -126,103 +116,8 @@ Sep 2013 – Jul 2017
         Experiment at the LHC’, characterisation of silicon CMOS MAPS
         chips.
 
-Publications
-
 ------------------------------------------------------------------------
 
-All publications as an ALICE and ATLAS author can be found via my
-Inspire ID: 1618293, or via ORCID.
-
--   Total publications and citations are 414 and 7009 respectively with
-    a h-index of 44.
-
-Selected publications:
-
--   The ATLAS collaboration Sensor response and radiation damage effects
-    for 3D pixels in the ATLAS IBL Detector, Journal of Instrumentation,
-    2024
--   The ALICE collaboration, ALICE upgrades during the LHC Long Shutdown
-    2, Journal of Instrumentation, 2024
--   J. P. Iddon on behalf of the ATLAS collaboration, Operational
-    experience and performance with the ATLAS Pixel detector at the
-    Large Hadron Collider at CERN, Nuclear Instruments and Methods in
-    Physics Research Section A, 2024
--   ALICE ITS project, First demonstration of in-beam performance of
-    bent Monolithic Active Pixel Sensors, Nuclear Instruments and
-    Methods in Physics Research Section A, 2022
--   J. P. Iddon on behalf of the ALICE collaboration, Commissioning of
-    the new ALICE Inner Tracking System, Journal of Instrumentation,
-    2020
-
-Conference Presentations
-
-------------------------------------------------------------------------
-
--   Operational Experience and Performance with the ATLAS Pixel detector
-    at the Large Hadron Collider at CERN, HSTD13, Vancouver 2023
--   Realising the ALICE ITS Upgrade, IOP Nuclear Colloquium, Remote, Nov
-    2021
--   Performance Measurements from Cosmic Muon Data using the Outer
-    Barrel of the New ALICE Inner Tracking System, PSD12, Birmingham
-    Sept 2021
--   Upgrade and Commissioning of the ITS Upgrade of ALICE, INSTR’20,
-    Novosibirsk, Feb 2020
--   Entering the precision era of hot QCD measurements, IOP18, Glasgow,
-    Apr 2018
-
-Conference / Workshop Organisation
-
-------------------------------------------------------------------------
-
--   Organisation of Operations session, Pixel Week, Milan, 2024
--   Organisation of Operations session, Pixel Week, Geneva, 2024
--   Organisation of Operations session, Pixel Week, Paris, 2023
-
-Mentorship
-
-------------------------------------------------------------------------
-
--   Linus and Marie, Supervisor, High school internship, CERN, 2025
--   Zachary Cole Sheridan, Co-supervisor, CERN Summer Student Program,
-    CERN, 2025
--   Tim Schloemer, Technical co-supervisor, PhD Qualification Task,
-    CERN, 2024
--   Yue Xu, Mentor, Pixel Run Coordination, CERN, 2024
--   Kehang Bai, Albert Borbely, Yuan-Tang Chou, Simone Ravera, Sergi
-    Rodriguez Bosca, Khuram Tariq, Elia Schmidt, Mentor, Pixel Run
-    Manager, CERN, 2023 - 2024
--   Elia Schmidt, Technical Supervisor, PhD Qualification Task, CERN,
-    2024
--   Lucas Cremer, Technical Supervisor, PhD Qualification Task, CERN
-    (remote), 2023
--   Emily Lantham-Taylor, Assisted Supervision, Master’s project,
-    Daresbury Laboratory, 2019
-
-Teaching
-
-------------------------------------------------------------------------
-
--   ATLAS Run-3 Shift Training, Inner Detector Desk Training, 2024
--   PHYS206 Practical Physics II, Teaching Assistant, 2017 - 2019
-
-Leadership
-
-------------------------------------------------------------------------
-
--   shepherd software group, 2025
--   Pixel DAQ Coordinator 1st Oct 2024 - 31st Jan 2025
--   Pixel Run Coordinator 1st Oct 2023 - 30th Sep 2024
--   Pixel Deputy Run Coordinator 1st Apr 2023 - 30th Sep 2023
--   Leader of the cosmic muon data collection campaign on surface for
-    ALICE ITS2, 2020
-
-Affiliations
-
-------------------------------------------------------------------------
-
--   ATLAS, 2022 - present
--   CERN, 2016 - present
--   ALICE, 2016 - 2023
--   University of Liverpool 2011 - 2022
--   Daresbury Laboratory, 2017 - 2019
+Full driving licence • Spanish residence permit • English native speaker
+• Spanish A2+/B1
 ```
