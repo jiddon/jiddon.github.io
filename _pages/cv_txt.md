@@ -37,7 +37,7 @@ Professional Experience
 ------------------------------------------------------------------------
 
 Apr 2026 – Present
-    Severo Ochoa Postdoctoral Fellow
+    Applied Physicist (Severo Ochoa Postdoctoral Fellow)
     IFIC / Universitat de Valencia, Valencia, ES
 
 Jul 2022 – Dec 2025
@@ -51,8 +51,8 @@ Jul 2022 – Dec 2025
     - Deployed and maintained over 5 automated test setups for silicon
       sensor module qualification.
     - Managed 24/7 operations and DevOps team for high-reliability
-      sensor system supporting particle accelerator data acquisition at
-      LHC.
+      sensor system (ATLAS Pixel) supporting particle accelerator data
+      acquisition at LHC.
     - Provided on-call operational and DAQ expertise for 24/7
       mission-critical operations over 2 years.
     - Developed/maintained DAQ software (C++/Python, CI/CD pipelines)

@@ -24,7 +24,7 @@ author_profile: true
 ---
 
 Apr 2026 – Present
-: **Severo Ochoa Postdoctoral Fellow**\
+: **Applied Physicist (Severo Ochoa Postdoctoral Fellow)**\
   *IFIC / Universitat de Valencia, Valencia, ES*
 
 Jul 2022 – Dec 2025
@@ -33,7 +33,7 @@ Jul 2022 – Dec 2025
 
     - Planned V&V for electrical characterisation of safety-critical silicon sensor array (ATLAS ITk Pixel outer barrel subsystem, 50-institution project).
     - Deployed and maintained over 5 automated test setups for silicon sensor module qualification.
-    - Managed 24/7 operations and DevOps team for high-reliability sensor system supporting particle accelerator data acquisition at LHC.
+    - Managed 24/7 operations and DevOps team for high-reliability sensor system (ATLAS Pixel) supporting particle accelerator data acquisition at LHC.
     - Provided on-call operational and DAQ expertise for 24/7 mission-critical operations over 2 years.
     - Developed/maintained DAQ software (C++/Python, CI/CD pipelines) for continuous operations in a mission-critical environment.
     - Mentored and led 24/7 shift teams drawn from 300-person international pool.
