@@ -14,8 +14,8 @@ jamesiddon94@gmail.com • linkedin • github.io
   large-scale, safety-critical sensor and instrumentation systems for
   international scientific programmes (50+ institutions, 6000+ members).
   Track record of cross-functional engineering leadership,
-  cleanroom-based hardware integration (since 2017), and sustained
-  mission-critical operational support. Based in Valencia.
+  cleanroom-based hardware integration, and sustained mission-critical
+  operational support. Based in Valencia.
 
 Skills
 

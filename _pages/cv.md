@@ -7,7 +7,7 @@ author_profile: true
 
 ### <jamesiddon94@gmail.com> • [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) 
 
-> Systems engineer with 8+ years' experience across the full system life cycle — requirements definition, hardware integration, verification & validation (V&V), qualification, and 24/7 mission operations — of large-scale, safety-critical sensor and instrumentation systems for international scientific programmes (50+ institutions, 6000+ members). Track record of cross-functional engineering leadership, cleanroom-based hardware integration (since 2017), and sustained mission-critical operational support. Based in Valencia.
+> Systems engineer with 8+ years' experience across the full system life cycle — requirements definition, hardware integration, verification & validation (V&V), qualification, and 24/7 mission operations — of large-scale, safety-critical sensor and instrumentation systems for international scientific programmes (50+ institutions, 6000+ members). Track record of cross-functional engineering leadership, cleanroom-based hardware integration, and sustained mission-critical operational support. Based in Valencia.
 
 ## Skills
 
