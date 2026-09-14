@@ -8,27 +8,31 @@ James Philip Iddon
 
 jamesiddon94@gmail.com • linkedin • github.io
 
-  Experienced applied physicist / systems engineer with 8+ years in the
-  integration, verification, and operation of large-scale,
-  safety-critical silicon particle detectors and their associated data
-  acquisition systems within large, international collaborations. Proven
-  track record in system-level verification and validation (V&V),
-  requirements-driven development, cross-functional team leadership, and
-  issue resolution under mission-critical conditions.
+  Systems engineer with 8+ years’ experience across the full system life
+  cycle — requirements definition, hardware integration, verification &
+  validation (V&V), qualification, and 24/7 mission operations — of
+  large-scale, safety-critical sensor and instrumentation systems for
+  international scientific programmes (50+ institutions, 6000+ members).
+  Track record of cross-functional engineering leadership,
+  cleanroom-based hardware integration (since 2017), and sustained
+  mission-critical operational support. Based in Valencia.
 
 Skills
 
 ------------------------------------------------------------------------
 
-Technical: Python • C++ • Hardware-software integration • Verification
-and Validation (V&V) • CI/CD pipelines • Docker • Bash • Git • Linux •
-Automated testing and deployment • REST API • UART • I2C
-Systems Engineering: Systems life-cycle development, requirements
-analysis, integration, validation, deployment, and operational support •
-Configuration management and quality assurance
+Systems Engineering: Full system life cycle: requirements definition &
+traceability, architecture, integration, verification & validation
+(V&V), qualification, commissioning, and operational support •
+Configuration management and quality assurance • Cleanroom-based
+hardware integration • Environmental and performance qualification
+testing
+Technical: Python • C++ • Hardware-software integration • CI/CD
+pipelines • Docker • Bash • Git • Linux • Automated testing and
+deployment • REST API • UART • I2C
 Communication & Coordination: Jira • International stakeholder
-engagement • Cross-functional team leadership • DevOps operations
-coordination
+engagement across multi-institution programmes • Cross-functional team
+leadership • 24/7 operations coordination
 Code Quality: Code review workflows • Static analysis tools • Testing
 automation and continuous integration
 
@@ -37,55 +41,66 @@ Professional Experience
 ------------------------------------------------------------------------
 
 Apr 2026 – Present
+
     Applied Physicist (Severo Ochoa Postdoctoral Fellow)
     IFIC / Universitat de Valencia, Valencia, ES
+
+    - Convener of the OBELIX CMOS sensor telescope working group for the
+      Belle II VTX detector upgrade: coordinating systems integration
+      across a multi-institution development team.
+    - Developing verification software for construction and integration
+      of a large-scale silicon sensor subsystem (ITk Strip detector), in
+      a cleanroom production environment.
 
 Jul 2022 – Dec 2025
 
     Applied Physicist (Staff, formerly Senior Fellow)
     CERN, Geneva, CH
 
-    - Planned V&V for electrical characterisation of safety-critical
-      silicon sensor array (ATLAS ITk Pixel outer barrel subsystem,
-      50-institution project).
-    - Deployed and maintained over 5 automated test setups for silicon
-      sensor module qualification.
-    - Managed 24/7 operations and DevOps team for high-reliability
-      sensor system (ATLAS Pixel) supporting particle accelerator data
-      acquisition at LHC.
-    - Provided on-call operational and DAQ expertise for 24/7
+    - Planned V&V for electrical characterisation of a safety-critical
+      silicon sensor array subsystem (ATLAS ITk Pixel outer barrel,
+      50-institution international programme).
+    - Deployed and maintained 5+ automated qualification test setups for
+      cleanroom-based silicon sensor module acceptance testing.
+    - Managed 24/7 operations and DevOps team for a high-reliability
+      sensor system supporting continuous data acquisition for a
+      large-scale international research facility (ATLAS Pixel detector,
+      LHC).
+    - Provided on-call systems/DAQ engineering support for 24/7
       mission-critical operations over 2 years.
-    - Developed/maintained DAQ software (C++/Python, CI/CD pipelines)
-      for continuous operations in a mission-critical environment.
-    - Mentored and led 24/7 shift teams drawn from 300-person
-      international pool.
-    - Chaired international meetings aligning cross-functional teams
-      over 9 time zones.
-    - Represented ~30 person operations team in 6000+ member
+    - Developed and maintained data-acquisition (DAQ) software
+      (C++/Python, CI/CD pipelines) for continuous mission operations in
+      a safety-critical environment.
+    - Mentored and led 24/7 shift engineering teams drawn from a
+      300-person international pool.
+    - Chaired international engineering meetings aligning
+      cross-functional teams across 9 time zones.
+    - Represented a ~30-person operations team within a 6000+ member
       international collaboration.
-    - Authored 3 novel software packages (Python) including well used
-      operational tools deployed across international collaborations.
-    - Served as system operations coordinator for record-setting
-      accelerator year.
+    - Authored 3 novel software packages (Python), including operational
+      tools adopted across international collaborations.
+    - Served as system operations coordinator for a record-setting
+      facility operational year.
 
 Oct 2017 – Jul 2022
 
     Applied Physicist (Doctorant)
     University of Liverpool / CERN
 
-    - Constructed, characterised, and verified 25% of the Outer Barrel
-      of the ALICE ITS2, the largest monolithic pixel sensor array ever
-      built, with 98% manufacturing yield.
+    - Constructed, characterised, and verified 25% of the outer barrel
+      of a large-scale silicon pixel sensor system (ALICE ITS2 — the
+      largest monolithic pixel sensor array ever built), in ISO-standard
+      cleanroom facilities, achieving 98% manufacturing yield.
     - Developed verification software integrated with production readout
-      and V&V strategies for full detector system (12.5 billion pixels,
-      10m² silicon).
-    - Validated performance of complete sensor system against
+      and system-level V&V strategy for the full sensor system (12.5
+      billion pixels, 10 m² silicon).
+    - Validated full sensor system performance against engineering
       requirements.
-    - Made first measurement of detection efficiency using 5 million
-      cosmic muon tracks across full detector system.
-    - Presented technical work in international collaboration meetings
-      (170+ institutions) from small working groups to large plenaries,
-      as well as national and international conferences.
+    - Performed first in-system detection-efficiency measurement using 5
+      million cosmic-ray tracks across the full sensor system.
+    - Presented technical work across a 170+ institution international
+      collaboration, from working groups to plenary sessions, and at
+      national and international conferences.
 
 Education
 
@@ -103,7 +118,7 @@ Oct 2017 – Jul 2022
     - Thesis: Construction, Commissioning and Performance Measurements
       of the Inner Tracking System Upgrade of ALICE at the LHC, focused
       on advanced systems engineering, integration, and comprehensive
-      verification and validation of complex detector systems.
+      verification and validation of complex sensor systems.
     - Defended June 2022. Shortlisted for the ALICE thesis award.
 
 Sep 2013 – Jul 2017
