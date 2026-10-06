@@ -218,7 +218,8 @@ Dec 2025 – Apr 2026
 
 ---
 
-Full driving licence • Spanish residence permit • English native speaker • Spanish A2+/B1
+Full driving licence • Spanish residence permit • English native speaker • Spanish B1
+
 
  
 ---
